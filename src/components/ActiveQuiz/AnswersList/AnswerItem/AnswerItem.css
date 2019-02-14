@@ -16,3 +16,11 @@
     -o-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
 }
+
+.AnswerItem.success{
+    background: rgba(201,240,69, .7);
+}
+
+.AnswerItem.error{
+    background: rgba(240,87,187, .7);
+}
